@@ -1,0 +1,10 @@
+/cache
+/output
+.byebug_history
+.DS_Store
+.rspec
+.rvmrc
+/*.sublime-project
+/*.sublime-workspace
+/tmp/*
+icon
